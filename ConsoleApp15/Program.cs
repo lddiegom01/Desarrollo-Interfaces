@@ -1,12 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, Luis!");
 
-Console.Write("Introduce el número de estudiantes: ");
+Console.Write("Dime los estudiantes: ");
 int numestu = int.Parse(Console.ReadLine());
 
 if (numestu <= 0)
 {
-    Console.WriteLine("El número de estudiantes debe ser mayor que cero.");
+    Console.WriteLine("Debe haber mas de 0 estudiantes");
     return;
 }
 
@@ -17,12 +17,12 @@ double maximo = double.MinValue;
 
 for (int i = 0; i < numestu; i++)
 {
-    Console.Write("Introduzca la nota del estudiante " + (i + 1) + ": ");
+    Console.Write("Dime la nota del estudiante " + (i + 1) + ": ");
     double nota = double.Parse(Console.ReadLine());
 
     if (nota < 0 || nota > 100)
     {
-        Console.WriteLine("La nota debe estar entre 0 y 100. Inténtelo de nuevo.");
+        Console.WriteLine("La nota debe estar entre 0 y 100 retry");
         i--; 
     }
     else

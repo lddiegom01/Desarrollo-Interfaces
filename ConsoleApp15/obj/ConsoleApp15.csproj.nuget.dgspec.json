@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\Proyectos Desarrollo Interfaces\\ConsoleApp15\\ConsoleApp15.csproj": {}
+    "L:\\Proyectos Desarrollo Interfaces\\Desarrollo Interfaces\\ConsoleApp15\\ConsoleApp15.csproj": {}
   },
   "projects": {
-    "L:\\Proyectos Desarrollo Interfaces\\ConsoleApp15\\ConsoleApp15.csproj": {
+    "L:\\Proyectos Desarrollo Interfaces\\Desarrollo Interfaces\\ConsoleApp15\\ConsoleApp15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Proyectos Desarrollo Interfaces\\ConsoleApp15\\ConsoleApp15.csproj",
+        "projectUniqueName": "L:\\Proyectos Desarrollo Interfaces\\Desarrollo Interfaces\\ConsoleApp15\\ConsoleApp15.csproj",
         "projectName": "ConsoleApp15",
-        "projectPath": "L:\\Proyectos Desarrollo Interfaces\\ConsoleApp15\\ConsoleApp15.csproj",
+        "projectPath": "L:\\Proyectos Desarrollo Interfaces\\Desarrollo Interfaces\\ConsoleApp15\\ConsoleApp15.csproj",
         "packagesPath": "C:\\Users\\Lukitass\\.nuget\\packages\\",
-        "outputPath": "L:\\Proyectos Desarrollo Interfaces\\ConsoleApp15\\obj\\",
+        "outputPath": "L:\\Proyectos Desarrollo Interfaces\\Desarrollo Interfaces\\ConsoleApp15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lukitass\\AppData\\Roaming\\NuGet\\NuGet.Config",
