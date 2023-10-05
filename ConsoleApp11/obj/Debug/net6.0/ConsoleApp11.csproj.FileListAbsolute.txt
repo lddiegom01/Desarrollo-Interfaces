@@ -1,0 +1,14 @@
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.exe
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.deps.json
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.runtimeconfig.json
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.dll
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.pdb
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfoInputs.cache
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfo.cs
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.dll
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\obj\Debug\net6.0\refint\ConsoleApp11.dll
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.pdb
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.genruntimeconfig.cache
+L:\Proyectos Desarrollo Interfaces\ConsoleApp11\obj\Debug\net6.0\ref\ConsoleApp11.dll

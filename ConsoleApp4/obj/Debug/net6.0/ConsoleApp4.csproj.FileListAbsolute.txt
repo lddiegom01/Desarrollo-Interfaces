@@ -1,0 +1,14 @@
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+L:\Proyectos Desarrollo Interfaces\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll

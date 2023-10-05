@@ -1,0 +1,4 @@
+L:\Proyectos Desarrollo Interfaces\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+L:\Proyectos Desarrollo Interfaces\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.AssemblyInfoInputs.cache
+L:\Proyectos Desarrollo Interfaces\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.AssemblyInfo.cs
+L:\Proyectos Desarrollo Interfaces\ConsoleApp10\obj\Debug\net6.0\ConsoleApp10.csproj.CoreCompileInputs.cache
